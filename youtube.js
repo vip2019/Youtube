@@ -1,7 +1,7 @@
 var default_user_name = "PixiesOfficialTV";
 selectChannel(default_user_name);
 /* API shits */
-function selectChannel(UC9g5TQ9pMDNQdf0oUwqIU9g?disable_polymer=true) {
+function selectChannel(n3arquran) {
 	$.ajax({
 		url: "https://www.googleapis.com/youtube/v3/channels",
 		type: "GET",
