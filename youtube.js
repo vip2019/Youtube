@@ -1,4 +1,4 @@
-var default_user_name = "PixiesOfficialTV";
+var default_user_name = "n3arquran";
 selectChannel(default_user_name);
 /* API shits */
 function selectChannel(n3arquran) {
