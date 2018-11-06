@@ -41,7 +41,7 @@ var myPlaylist = [
     title: "2 hours Trance Music - Armin Van Buuren",
     author: "Armin van Buuren",
     sources: [{ 
-      src: "https://archive.org/download/on_______line-alsha3rawy-video-on-line-full-tafseer-quran/EP002.Al.Fatihah1.mp4", 
+      src: "https://www.youtube.com/watch?v=r6KXy0j85AM", 
       type: "youtube"
     }],
     poster: "https://img.youtube.com/vi/r6KXy0j85AM/hqdefault.jpg"
@@ -81,7 +81,7 @@ var myPlaylist = [
     title: "2 hours Trance Music - Armin Van Buuren",
     author: "Armin van Buuren",
     sources: [{ 
-      src: "https://archive.org/download/on_______line-alsha3rawy-video-on-line-full-tafseer-quran/EP002.Al.Fatihah1.mp4", 
+      src: "https://www.youtube.com/watch?v=r6KXy0j85AM", 
       type: "youtube"
     }],
     poster: "https://img.youtube.com/vi/r6KXy0j85AM/hqdefault.jpg"
@@ -91,7 +91,7 @@ var myPlaylist = [
     title: "2 hours Trance Music - Armin Van Buuren",
     author: "Armin van Buuren",
     sources: [{ 
-      src: "https://archive.org/download/on_______line-alsha3rawy-video-on-line-full-tafseer-quran/EP002.Al.Fatihah1.mp4", 
+      src: "https://www.youtube.com/watch?v=r6KXy0j85AM", 
       type: "youtube"
     }],
     poster: "https://img.youtube.com/vi/r6KXy0j85AM/hqdefault.jpg"
@@ -101,7 +101,7 @@ var myPlaylist = [
     title: "2 hours Trance Music - Armin Van Buuren",
     author: "Armin van Buuren",
     sources: [{ 
-      src: "https://archive.org/download/on_______line-alsha3rawy-video-on-line-full-tafseer-quran/EP002.Al.Fatihah1.mp4", 
+      src: "https://www.youtube.com/watch?v=r6KXy0j85AM", 
       type: "youtube"
     }],
     poster: "https://img.youtube.com/vi/r6KXy0j85AM/hqdefault.jpg"
